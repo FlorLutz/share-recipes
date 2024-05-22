@@ -14,7 +14,7 @@ export default function MealsPage() {
     <>
       <header className={styles.header}>
         <h1>
-          Delicious melas, created{" "}
+          Delicious meals, created{" "}
           <span className={styles.highlight}>by you</span>
         </h1>
         <p>
